@@ -1,0 +1,1 @@
+Designed and implemented a neural network to train on a compact dataset of 9000+ superhero names, enabling the generation of similar names. The dataset encompasses superheroes, supervillains, and diverse fictional characters sourced from various comic books, TV shows, and movies.
